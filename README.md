@@ -9,17 +9,11 @@ Most of the compositions are set up to use your camera as default input source f
 ## Compositions
 
 ### Bilateral filtering
-* 1D kernel filtering:
-<embed src="https://github.com/lbergnehr/quartz-compositions/blob/master/BilateralFilter1D.qtz" />
-
-* 2D kernel filtering:
-<embed src="https://github.com/lbergnehr/quartz-compositions/blob/master/BilateralFilter2D.qtz" />
+* 1D kernel filtering
+* 2D kernel filtering
 
 ### Convolution
-* 3x3 kernel:
-<embed src="https://github.com/lbergnehr/quartz-compositions/blob/master/3x3Convolution.qtz" />
-
-* 5x5 kernel:
-<embed src="https://github.com/lbergnehr/quartz-compositions/blob/master/5x5Convolution.qtz" />
+* 3x3 kernel
+* 5x5 kernel
 
 [1]: https://developer.apple.com/downloads
